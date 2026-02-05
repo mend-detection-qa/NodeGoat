@@ -10,10 +10,6 @@
       "expected_reachable_libraries": {
         "contains": [
           {
-            "library_name": "minimist-1.2.5.tgz",
-            "vulnerabilities": ["CVE-2021-44906"]
-          },
-          {
             "library_name": "bson-1.0.9.tgz",
             "vulnerabilities": ["CVE-2020-7610"]
           },
